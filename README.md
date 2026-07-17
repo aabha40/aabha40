@@ -24,9 +24,9 @@ I'm a **B.Tech Computer Science (AI)** graduate (Class of 2026) from **Banasthal
 
 ```
 ┌─────────────────────────┬───────────────────────────────────┬──────────────────┐
-│  CDAC Pune               │  Project Intern                    │  Jan – May 2026   │
+│  CDAC Pune              │  Project Intern                   │  Jan – May 2026  │
 ├─────────────────────────┼───────────────────────────────────┼──────────────────┤
-│  Salesforce               │  Software Engineering Intern       │  May – Jul 2025   │
+│  Salesforce             │  Software Engineering Intern      │  May – Jul 2025  │
 └─────────────────────────┴───────────────────────────────────┴──────────────────┘
 ```
 
