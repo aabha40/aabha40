@@ -47,9 +47,9 @@ I'm a **B.Tech Computer Science (AI)** graduate (Class of 2026) from **Banasthal
 
 ## Featured Projects
 
-- [**SwiftAid: Smart Emergency Ride Allocation System**](https://github.com/aabha40) — Real-time ambulance dispatch platform with a Redis geo-spatial matching engine locating the nearest available ambulance within a 50 km radius in under 5 ms, a weighted hospital-routing algorithm, atomic-locking priority queue for critical cases, and live GPS tracking via Socket.io. JWT auth, 4-role RBAC, Dockerized, deployed end-to-end (Railway + Vercel). *(Node.js, Redis, Socket.io, React, Docker)*
+- [**SwiftAid: Smart Emergency Ride Allocation System**](https://github.com/aabha40/SwiftAid) — Real-time ambulance dispatch platform with a Redis geo-spatial matching engine locating the nearest available ambulance within a 50 km radius in under 5 ms, a weighted hospital-routing algorithm, atomic-locking priority queue for critical cases, and live GPS tracking via Socket.io. JWT auth, 4-role RBAC, Dockerized, deployed end-to-end (Railway + Vercel). *(Node.js, Redis, Socket.io, React, Docker)*
 
-- [**Breast Aware: Breast Cancer Detection System**](https://github.com/aabha40) — CNN-based image classifier detecting Benign, Malignant, and Normal cases, with a React frontend and Flask API for real-time predictions. *(Python, TensorFlow/Keras, React.js, Flask)*
+- [**Breast Aware: Breast Cancer Detection System**](https://github.com/aabha40/Breast_Aware) — CNN-based image classifier detecting Benign, Malignant, and Normal cases, with a React frontend and Flask API for real-time predictions. *(Python, TensorFlow/Keras, React.js, Flask)*
 
 ---
 
